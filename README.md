@@ -1,9 +1,11 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkotburi&count_bg=%23F34F29&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Hello! I’m Hye-young Lee, a developer committed to continuous growth.
 
 - 🌱 I’m currently learning Typescript
-- 🤔 I’m looking for help with Next.js
+- 🔍 I’m looking for help with Next.js
 - 💬 Ask me about React
-- ⚡ Fun fact: I recently started learning drums, adding rhythm to my coding journey!
+- 🥁 Fun fact: I recently started learning drums, adding rhythm to my coding journey
 
 <!--
 **kkotburi/kkotburi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
