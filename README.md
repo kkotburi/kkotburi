@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! I’m Hye-young Lee, a developer committed to continuous growth.
+
+- 🌱 I’m currently learning Typescript
+- 🤔 I’m looking for help with Next.js
+- 💬 Ask me about React
+- ⚡ Fun fact: I recently started learning drums, adding rhythm to my coding journey!
 
 <!--
 **kkotburi/kkotburi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
