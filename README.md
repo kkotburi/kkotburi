@@ -36,8 +36,8 @@
 </div>
 <div>
 
-![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=default#gh-light-mode-only)
-![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=github_dark#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=default#gh-light-mode-only)](s#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=github_dark#gh-dark-mode-only)](#gh-dark-mode-only)
 
 </div>
 </div>
