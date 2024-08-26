@@ -41,6 +41,12 @@
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=76b9c72b55939f5337f5a74b8a8ff7c0)](https://gist.github.com/kkotburi/76b9c72b55939f5337f5a74b8a8ff7c0/)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=39957a431f433a46ccde94ab10ff20f0)](https://gist.github.com/kkotburi/39957a431f433a46ccde94ab10ff20f0/)
 
+![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages)
+![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&theme=github_dark)
+
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=76b9c72b55939f5337f5a74b8a8ff7c0)
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=39957a431f433a46ccde94ab10ff20f0)
+
 <!--
 **kkotburi/kkotburi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
