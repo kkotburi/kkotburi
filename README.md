@@ -1,10 +1,10 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkotburi&count_bg=%23F34F29&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkotburi&count_bg=%23F34F29&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 ### Hello, World! I’m Hye-young Lee, a developer committed to continuous growth.
 
 <br/>
 <div>
-🌱 I’m currently learning Next.js
+🌱 I’m currently learning <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js"/>
 <br/>
 🥁 Fun fact: I recently started learning drums, adding rhythm to my coding journey
 </div>
@@ -13,26 +13,33 @@
 <b>Skills</b>
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3"/>
 <br/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled components&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux"/>
+<img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled components&logoColor=ffffff"/>
 <br/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=Supabase&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=Supabase&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase"/>
 <br/>
 <b>Tools</b>
 <br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack"/>
 </div>
+<br/>
+
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/kkotburi/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/kkotburi/github-readme-stats#gh-dark-mode-only)
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=76b9c72b55939f5337f5a74b8a8ff7c0)](https://gist.github.com/kkotburi/76b9c72b55939f5337f5a74b8a8ff7c0/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=39957a431f433a46ccde94ab10ff20f0)](https://gist.github.com/kkotburi/39957a431f433a46ccde94ab10ff20f0/)
 
 <!--
 **kkotburi/kkotburi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,4 +54,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
   -->
