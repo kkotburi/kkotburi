@@ -14,8 +14,10 @@
 
 <a href="https://github.com/kkotburi/github-readme-stats#gh-light-mode-only">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=360&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=default#gh-light-mode-only" />
+</a>
 <a href="https://github.com/kkotburi/github-readme-stats#gh-dark-mode-only">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=360&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=github_dark#gh-dark-mode-only" />
+</a>
 
 <b>Skills</b>
 <br/>
