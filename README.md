@@ -35,14 +35,8 @@
 </div>
 <br/>
 
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/kkotburi/github-readme-stats#gh-light-mode-only)
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/kkotburi/github-readme-stats#gh-dark-mode-only)
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=76b9c72b55939f5337f5a74b8a8ff7c0)](https://gist.github.com/kkotburi/76b9c72b55939f5337f5a74b8a8ff7c0/)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=39957a431f433a46ccde94ab10ff20f0)](https://gist.github.com/kkotburi/39957a431f433a46ccde94ab10ff20f0/)
-
-![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages)
-![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&theme=github_dark)
+![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=default#gh-light-mode-only)
+![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=github_dark#gh-dark-mode-only)
 
 ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=76b9c72b55939f5337f5a74b8a8ff7c0)
 ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=39957a431f433a46ccde94ab10ff20f0)
