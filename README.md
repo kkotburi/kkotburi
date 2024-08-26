@@ -1,3 +1,7 @@
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkotburi&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+
+<br/>
+
 ### Hello, World! I’m a developer committed to continuous growth:)
 
 <br/>
@@ -10,12 +14,8 @@
 
 <br/>
 
-<a href="https://github.com/kkotburi#gh-light-mode-only">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=default#gh-light-mode-only" />
-</a>
-<a href="https://github.com/kkotburi#gh-dark-mode-only">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=github_dark#gh-dark-mode-only" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=360&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=default#gh-light-mode-only" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=360&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=github_dark#gh-dark-mode-only" />
 
 <b>Skills</b>
 <br/>
@@ -39,15 +39,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack"/>
-
-<!-- <div>
-
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/kkotburi#gh-light-mode-only)
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kkotburi&layout=compact&card_width=320&exclude_repo=project-megaflix&custom_title=Languages&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/kkotburi#gh-dark-mode-only)
-
-</div> -->
-
-<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkotburi&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) -->
 
 <!--
 **kkotburi/kkotburi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
