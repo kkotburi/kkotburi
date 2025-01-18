@@ -10,6 +10,8 @@
 🌱 I’m currently learning Next.js
 <br/>
 🥁 Fun fact: I recently started learning drums, adding rhythm to my coding journey
+<br/>
+🌊I have recently started learning to swim, and I'm keen to embrace new challenges, just like I do in my development work.
 </div>
 
 <br/><br/>
