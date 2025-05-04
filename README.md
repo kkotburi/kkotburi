@@ -33,9 +33,10 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3"/>
 <br/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux"/><!-- <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled components&logoColor=ffffff"/> -->
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux"/>
+<img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=reactrouter&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styledcomponents&logoColor=ffffff"/>
 <br/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=Supabase&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase"/>
